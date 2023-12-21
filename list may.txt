@@ -1,1 +1,2 @@
 sow seeds
+reduce watering
